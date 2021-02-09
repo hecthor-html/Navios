@@ -1,0 +1,27 @@
+h1
+{
+	color : red;
+}
+
+body
+{
+	background-color: green ;
+}
+
+#carte
+{
+	width: 300px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+#carto
+{
+	width: 300px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: right;
+	align-content: center;
+}
