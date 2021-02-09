@@ -1,4 +1,7 @@
 # Navios
-site de référencement pour navigateur web
 
-bonjour ! vous voila sur Navios ! un site qui va vous aider a trouver le navigateur web qui vous convient !
+## bonjour !
+
+Vous voila sur Navios ! Un site qui va vous aidez à trouver le navigateur web qui vous convient !
+
+Pour télécharger le fichier, cliquez sur view on github.
